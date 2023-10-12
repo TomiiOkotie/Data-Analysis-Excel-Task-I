@@ -8,3 +8,11 @@ I also went ahead to clean the data and worked on the data type for each of the 
 
 In this worksheet, I show only employees who are freelancers and highlighted employees whose salaries are above $ 10,000. To achieve this, I used the sort and filter icon to filter out employees who are not freelancers, then I went ahead to use conditional formatting on the salary column and highlighted salaries greater than $ 10,000.
 
+![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/SortandFilter.png)
+
+In this sheet, I had a list of employee names in one column and wanted to split these names into first names and last names. To do this, I added a new column right next to the one with employee names. Next, I selected the column containing the employee names. Then, I went to the "Data" tab in Excel. I used the "Text to Columns" feature from there. I specified that I wanted to split the text into spaces. I clicked "Finish" and agreed to let Excel replace the original data. As a result, the employee names got separated into the new columns, with first names in one and last names in the other. I didn't have any duplicate Data. 
+
+
+![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/DelimtedDataset.png) ![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/DelimtedDataset.png)
+
+
