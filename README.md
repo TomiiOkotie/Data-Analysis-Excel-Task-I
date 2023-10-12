@@ -15,7 +15,7 @@ In this sheet, I had a list of employee names in one column and wanted to split 
 
 ![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/DelimtedDataset.png) 
 
-![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/SplittedFile.png)
+![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/spilltedf.png)
 
 ![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/Noduplicate.png)
 
