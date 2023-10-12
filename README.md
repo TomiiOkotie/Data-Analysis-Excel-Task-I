@@ -13,6 +13,13 @@ In this worksheet, I show only employees who are freelancers and highlighted emp
 In this sheet, I had a list of employee names in one column and wanted to split these names into first names and last names. To do this, I added a new column right next to the one with employee names. Next, I selected the column containing the employee names. Then, I went to the "Data" tab in Excel. I used the "Text to Columns" feature from there. I specified that I wanted to split the text into spaces. I clicked "Finish" and agreed to let Excel replace the original data. As a result, the employee names got separated into the new columns, with first names in one and last names in the other. I didn't have any duplicate Data. 
 
 
-![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/DelimtedDataset.png) ![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/DelimtedDataset.png)
+![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/DelimtedDataset.png) 
 
+![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/SplittedFile.png)
+
+![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/Noduplicate.png)
+
+Fot this sheet, I first selected the employee name column and used conditional formatting to highlight names that started with "E" in yellow. Then, I sorted the salary column from highest to lowest and applied a green and red color scale to highlight the salary range.
+
+![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/ConditionalFormatting.png)
 
