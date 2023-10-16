@@ -29,7 +29,23 @@ Fot this sheet, I first selected the employee name column and used conditional f
 
 #   Excel Task 2
 
-In this sheet, I had clean data with minimal issues. I adjusted column widths to fit content properly. I styled and centered the header row for clarity. I assigned appropriate data types like currency for money, date for dates, and text for text columns, leaving the rest as general data. This enhanced data organization and presentation. The first tas
+In this sheet, I had clean data with minimal issues. I adjusted column widths to fit content properly. I styled and centered the header row for clarity. I assigned appropriate data types like currency for money, date for dates, and text for text columns, leaving the rest as general data. This enhanced data organization and presentation. The first task was to determine the total revenue and to get that i used the sum function to sum up the entire sales coulunm with the formular =SUM(A2:A701)
+
+![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/RevenueData.png)
+
+I also went ahead to calculate the total profit by summing up the profit column using the sum funtion =SUM(L2:L701) 
+
+![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/Profit%20Data.png)
+
+For the next task i had to determine the average revenue, i used the average function for the sales column, the fornalar used =AVERAGE(A2:A701)
+
+![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/AverageRevenue.png)
+
+The next task was to calculate the average of unit sold and i used average function on the unit sold column, the formula used was =AVERAGE(O2:O701)
+
+![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/AverageUnitSold.png) 
+
+For the next task, i had to find the total discount and to achieve this i used the sum function on the discount column and the formula deployed was =SUM(F2:F701)
 
 
 
