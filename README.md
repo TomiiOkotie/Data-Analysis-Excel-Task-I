@@ -29,7 +29,7 @@ Fot this sheet, I first selected the employee name column and used conditional f
 
 #   Excel Task 2
 
-In this sheet, I had clean data with minimal issues. I adjusted column widths to fit content properly. I styled and centered the header row for clarity. I assigned appropriate data types like currency for money, date for dates, and text for text columns, leaving the rest as general data. This enhanced data organization and presentation. The first task was to determine the total revenue and to get that i used the sum function to sum up the entire sales coulunm with the formular =SUM(A2:A701)
+In this sheet, I had clean data with minimal issues. I adjusted column widths to fit content properly. I styled and centered the header row for clarity. I assigned appropriate data types like currency for money, date for dates, and text for text columns, leaving the rest as general data. This enhanced data organization and presentation. The first task was to determine the total revenue and to get that i used the sum function to sum up the entire sales coulunm with the formula =SUM(A2:A701)
 
 ![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/RevenueData.png)
 
@@ -47,5 +47,17 @@ The next task was to calculate the average of unit sold and i used average funct
 
 For the next task, i had to find the total discount and to achieve this i used the sum function on the discount column and the formula deployed was =SUM(F2:F701)
 
+![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/Average%20Unit%20Sold.png)
 
+The next insight shows total number of sales, which simply means using the count functon to determine the number of sales , and i used =COUNT(A2:A701)
+
+![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/CountData.png)
+
+And for the sheet below, i had to determine the highest profit in the profit column and i simply used the max function, formula was =MAX(L2:L701)
+
+![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/HighestData.png) 
+
+For the fianl insight, i created a column namee sales range and return 'high sales', if the sale value is above average, otherwise return 'Low Sales'.  To do this i used the if function and also use absolute referencing. Formula =IF(A2>$V$17,"High Sales", "Low Sales")
+
+![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/lowsales.png)
 
