@@ -22,7 +22,7 @@ In this sheet, I had a list of employee names in one column and wanted to split 
 
 ## Worksheet 3
 
-Fot this sheet, I first selected the employee name column and used conditional formatting to highlight names that started with "E" in yellow. Then, I sorted the salary column from highest to lowest and applied a green and red color scale to highlight the salary range.
+For this sheet, I first selected the employee name column and used conditional formatting to highlight names that started with "E" in yellow. Then, I sorted the salary column from highest to lowest and applied a green and red color scale to highlight the salary range.
 
 ![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/ConditionalFormatting.png)
 
@@ -37,7 +37,7 @@ I also went ahead to calculate the total profit by summing up the profit column 
 
 ![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/Profit%20Data.png)
 
-For the next task i had to determine the average revenue, i used the average function for the sales column, the fornalar used =AVERAGE(A2:A701)
+For the next task i had to determine the average revenue, i used the average function for the sales column, the formula used =AVERAGE(A2:A701)
 
 ![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/AverageRevenue.png)
 
@@ -57,7 +57,7 @@ And for the sheet below, i had to determine the highest profit in the profit col
 
 ![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/HighestData.png) 
 
-For the fianl insight, i created a column namee sales range and return 'high sales', if the sale value is above average, otherwise return 'Low Sales'.  To do this i used the if function and also use absolute referencing. Formula =IF(A2>$V$17,"High Sales", "Low Sales")
+For the final insight, i created a column named sales range and return 'high sales', if the sale value is above average, otherwise return 'Low Sales'.  To do this i used the if function and also use absolute referencing. Formula =IF(A2>$V$17,"High Sales", "Low Sales")
 
 ![](https://github.com/TomiiOkotie/Data-Analysis-Excel-Task-I/blob/main/lowsales.png)
 
